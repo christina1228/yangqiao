@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<embed src="./yang_qiao_CV" type="application/pdf" width=100vw height=100vh>
+
+</body>
+</html>
